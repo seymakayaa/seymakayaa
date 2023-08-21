@@ -18,7 +18,7 @@ My passion area
 
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-yellow)
 ![Data Science](https://img.shields.io/badge/DataScience-purple)
-![Neural Networks](https://img.shields.io/badge/NeuralNetworks-blue)
+![Neural Networks](https://img.shields.io/badge/NeuralNetworks-darkblue)
 ![Deep Learning](https://img.shields.io/badge/DeepLearning-green)
 ![NLP](https://img.shields.io/badge/NLP-orange)
 ![Data Mining](https://img.shields.io/badge/DataMining-darkred)
