@@ -16,8 +16,8 @@ My fascination with the intricate interplay between AI and mathematics led me to
 
 My passion area
 
-[![Machine Learning](https://img.shields.io/badge/MachineLearning-yellow)]
-[![Data Science](https://img.shields.io/badge/DataScience-red)]
-[![Neural Networks](https://img.shields.io/badge/NeuralNetworks-purple)]
-[![Deep Learning](https://img.shields.io/badge/DeepLearning-green)]
-[![NLP](https://img.shields.io/badge/NLP-orange)]
+![Machine Learning](https://img.shields.io/badge/MachineLearning-yellow)
+![Data Science](https://img.shields.io/badge/DataScience-red)
+![Neural Networks](https://img.shields.io/badge/NeuralNetworks-purple)
+![Deep Learning](https://img.shields.io/badge/DeepLearning-green)
+![NLP](https://img.shields.io/badge/NLP-orange)
