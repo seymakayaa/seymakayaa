@@ -12,3 +12,8 @@ My fascination with the intricate interplay between AI and mathematics led me to
 - 📫 How to reach me: ...
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/seyma-kaya-02b3ba1b0/)
+
+
+My passion area
+[![Makine Öğrenimi](https://img.shields.io/badge/Tutku-Makine%20Öğrenimi-blue)](https://github.com/KullaniciAdi/ProjeAdi)
+[![Veri Bilimi](https://img.shields.io/badge/Tutku-Veri%20Bilimi-green)](https://github.com/KullaniciAdi/ProjeAdi)
