@@ -7,7 +7,7 @@ My fascination with the intricate interplay between AI and mathematics led me to
  
 - 🌱 I’m currently learning ...
 - 
-[![Python Version](https://img.shields.io/badge/python-brightgreen.svg)](https://www.python.org/)  [![Machine Learning Libraries](https://img.shields.io/badge/libs-scikit%20learn%2C%20tensorflow-blue)](https://github.com/KullaniciAdi/ProjeAdi)
+[![Python Version](https://img.shields.io/badge/python-brightgreen.svg)](https://www.python.org/)  [![Machine Learning Libraries](https://img.shields.io/badge/scikit%20learn%2C%20tensorflow-blue)](https://github.com/KullaniciAdi/ProjeAdi)
 
 - 📫 How to reach me: ...
 - 
