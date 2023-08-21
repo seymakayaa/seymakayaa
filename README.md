@@ -7,7 +7,8 @@ My fascination with the intricate interplay between AI and mathematics led me to
  
 - 🌱 I’m currently learning ...
 
-[![Python](https://img.shields.io/badge)](https://www.python.org/)
+[![Python Version](https://img.shields.io/badge/python-3.8-brightgreen.svg)](https://www.python.org/)
+
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
