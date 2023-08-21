@@ -2,7 +2,7 @@
 
 I am currently an Electrical and Electronics Engineering student at Marmara University. My academic journey at Marmara has been a transformative experience, exposing me to the dynamic realms of Artificial Intelligence and Information Technology departments. Through this immersive education, I have come to the profound realization that my true passion lies in roles that require a symbiotic blend of artificial intelligence and mathematical prowess. I pursued Machine Learning and Data Science courses during my undergraduate studies and found immense gratification in these subjects.
 
-My fascination with the intricate interplay between AI and mathematics led me to venture into Machine Learning and Data Science courses during my undergraduate tenure.I find immense satisfaction in deciphering complex datasets, extracting meaningful insights, and developing innovative solutions.
+My fascination with the intricate interplay between AI and mathematics led me to venture into Machine Learning and Big Data courses during my undergraduate tenure.I find immense satisfaction in deciphering complex datasets, extracting meaningful insights, and developing innovative solutions.
 
  - 🔭 I’m currently working on ...
 
@@ -20,9 +20,9 @@ My fascination with the intricate interplay between AI and mathematics led me to
 - My passion area:
 
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-yellow)
-![Data Science](https://img.shields.io/badge/DataScience-purple)
+![Big Data](https://img.shields.io/badge/BigData-purple)
 ![Neural Networks](https://img.shields.io/badge/NeuralNetworks-darkblue)
 ![Deep Learning](https://img.shields.io/badge/DeepLearning-green)
 ![NLP](https://img.shields.io/badge/NLP-orange)
-![Data Mining](https://img.shields.io/badge/DataMining-darkred)
+![Image Processing](https://img.shields.io/badge/ImageProcessing-darkred)
 
