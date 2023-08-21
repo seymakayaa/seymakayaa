@@ -7,7 +7,9 @@ My fascination with the intricate interplay between AI and mathematics led me to
  - 🔭 I’m currently working on ...
 
  [![GitHub Repository](https://img.shields.io/badge/TreeDetectionFromLidarImagesViaDeepLearning-gold.svg)](https://github.com/your-username/your-repository)(https://github.com/seymakayaa/TreeDetectionFromLidarImagesViaDeepLearning))
- 
+
+ [![GitHub Repository](https://img.shields.io/badge/TreeDetectionFromLidarImagesViaDeepLearning-black)](https://github.com/seymakayaa/TreeDetectionFromLidarImagesViaDeepLearning)
+
 - 🌱 I’m currently learning ...
 
 [![Python Version](https://img.shields.io/badge/python-brightgreen.svg)](https://www.python.org/)  [![Machine Learning Libraries](https://img.shields.io/badge/scikit%20learn%2C%20tensorflow-blue)](https://github.com/KullaniciAdi/ProjeAdi)
