@@ -15,5 +15,6 @@ My fascination with the intricate interplay between AI and mathematics led me to
 
 
 My passion area
-[![Makine Öğrenimi](https://img.shields.io/badge/Tutku-Makine%20Öğrenimi-blue)](https://github.com/KullaniciAdi/ProjeAdi)
-[![Veri Bilimi](https://img.shields.io/badge/Tutku-Veri%20Bilimi-green)](https://github.com/KullaniciAdi/ProjeAdi)
+[![Makine Öğrenimi](https://img.shields.io/badge/MachineLearning-yellow)](https://github.com/KullaniciAdi/ProjeAdi)
+[![Veri Bilimi](https://img.shields.io/badge/DataScience-pink)](https://github.com/KullaniciAdi/ProjeAdi)
+
