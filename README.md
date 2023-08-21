@@ -14,7 +14,7 @@ My fascination with the intricate interplay between AI and mathematics led me to
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/seyma-kaya-02b3ba1b0/)
 
 
-My passion area
+- My passion area:
 
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-yellow)
 ![Data Science](https://img.shields.io/badge/DataScience-purple)
